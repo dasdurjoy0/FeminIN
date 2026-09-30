@@ -1,0 +1,137 @@
+Folder PATH listing for volume F
+Volume serial number is D093-93B0
+F:.
+³   .gitignore
+³   build.gradle.kts
+³   gradle.properties
+³   gradlew
+³   gradlew.bat
+³   local.properties
+³   settings.gradle.kts
+³   
+ÃÄÄÄ.gradle
+³   ÃÄÄÄ9.6.0
+³   ³   ÃÄÄÄchecksums
+³   ³   ³       checksums.lock
+³   ³   ³       md5-checksums.bin
+³   ³   ³       sha1-checksums.bin
+³   ³   ³       
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄexpanded
+³   ³   ÃÄÄÄfileChanges
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       
+³   ³   ÃÄÄÄkotlin-dsl-plugin-entries
+³   ³   ³       jar-entries.bin
+³   ³   ³       kotlin-dsl-plugin-entries.lock
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       
+³   ÀÄÄÄvcs-1
+ÃÄÄÄ.idea
+³       .gitignore
+³       .name
+³       AndroidProjectSystem.xml
+³       gradle.xml
+³       misc.xml
+³       runConfigurations.xml
+³       vcs.xml
+³       workspace.xml
+³       
+ÃÄÄÄapp
+³   ³   .gitignore
+³   ³   build.gradle.kts
+³   ³   
+³   ÀÄÄÄsrc
+³       ÃÄÄÄandroidTest
+³       ³   ÀÄÄÄjava
+³       ³       ÀÄÄÄcom
+³       ³           ÀÄÄÄexample
+³       ³               ÀÄÄÄfeminin
+³       ³                       ExampleInstrumentedTest.java
+³       ³                       
+³       ÃÄÄÄmain
+³       ³   ³   AndroidManifest.xml
+³       ³   ³   
+³       ³   ÃÄÄÄjava
+³       ³   ³   ÀÄÄÄcom
+³       ³   ³       ÀÄÄÄexample
+³       ³   ³           ÀÄÄÄfeminin
+³       ³   ³                   MainActivity.java
+³       ³   ³                   
+³       ³   ÃÄÄÄkeepRules
+³       ³   ³       rules.keep
+³       ³   ³       
+³       ³   ÀÄÄÄres
+³       ³       ÃÄÄÄdrawable
+³       ³       ³       ic_launcher_background.xml
+³       ³       ³       ic_launcher_foreground.xml
+³       ³       ³       
+³       ³       ÃÄÄÄlayout
+³       ³       ³       activity_main.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-anydpi-v26
+³       ³       ³       ic_launcher.xml
+³       ³       ³       ic_launcher_round.xml
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-hdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-mdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄmipmap-xxxhdpi
+³       ³       ³       ic_launcher.webp
+³       ³       ³       ic_launcher_round.webp
+³       ³       ³       
+³       ³       ÃÄÄÄvalues
+³       ³       ³       colors.xml
+³       ³       ³       strings.xml
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÃÄÄÄvalues-night
+³       ³       ³       themes.xml
+³       ³       ³       
+³       ³       ÀÄÄÄxml
+³       ³               backup_rules.xml
+³       ³               data_extraction_rules.xml
+³       ³               
+³       ÀÄÄÄtest
+³           ÀÄÄÄjava
+³               ÀÄÄÄcom
+³                   ÀÄÄÄexample
+³                       ÀÄÄÄfeminin
+³                               ExampleUnitTest.java
+³                               
+ÃÄÄÄDocuments
+³       FeminIn_MVP_PRD.md
+³       FeminIn_Project_Phases.md
+³       FeminIn_Project_Rules.md
+³       Ideas.txt
+³       tree.txt
+³       
+ÀÄÄÄgradle
+    ³   gradle-daemon-jvm.properties
+    ³   libs.versions.toml
+    ³   
+    ÀÄÄÄwrapper
+            gradle-wrapper.jar
+            gradle-wrapper.properties
+            
